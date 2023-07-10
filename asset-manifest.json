@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordict/static/css/main.e6274fd3.css",
+    "main.js": "/wordict/static/js/main.8739212b.js",
+    "index.html": "/wordict/index.html",
+    "main.e6274fd3.css.map": "/wordict/static/css/main.e6274fd3.css.map",
+    "main.8739212b.js.map": "/wordict/static/js/main.8739212b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6274fd3.css",
+    "static/js/main.8739212b.js"
+  ]
+}
